@@ -1,0 +1,84 @@
+# Software Engineering (PG_00136700)
+
+## General Information
+- **Field of Study**: Information Science and Econometrics
+- **Date of Commencement**: October 2023
+- **Academic Year**: 2024/2025
+- **Education Level**: Undergraduate Studies
+- **Subject Group**: Obligatory subject group in the field of study
+- **Mode of Study**: Full-time studies
+- **Mode of Delivery**: At the university
+- **Year of Study**: 2
+- **Semester**: 3
+- **ECTS Credits**: 8.0
+- **Language of Instruction**: Polish
+
+## Lesson Types and Hours
+| Lesson Type | Number of Study Hours |
+|-------------|------------------------|
+| Lecture     | 30                     |
+| Tutorial    | 0                      |
+| Laboratory  | 45                     |
+| Project     | 0                      |
+| Seminar     | 0                      |
+| **Total**   | 75                     |
+
+## Learning Activities and Hours
+| Activity                         | Number of Hours |
+|----------------------------------|-----------------|
+| Participation in Didactic Classes| 75              |
+| Consultation Hours               | 25              |
+| Self-study                       | 100             |
+| **Total**                        | 200             |
+
+## Subject Objectives
+- Familiarizing students with the basic problems, methods, techniques, and tools of software engineering.
+- Preparing students to create useful, high-quality software for private needs and enterprises, public, and non-profit sector institutions.
+
+## Learning Outcomes
+| Code           | Learning Outcome                                                                                     | Verification Method                     |
+|----------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------|
+| IiEL3_U04      | The student can plan, design, and program information systems to support the functioning of economic entities. | Presentation/Project/Report, Test/Exam |
+| IiEL3_K01      | The student understands the need to supplement and deepen knowledge, open to new ideas and teaching methods. | Presentation/Project/Report, Test/Exam |
+| IiEL3_W07      | The student has advanced knowledge of ethical norms, business practices, and intellectual property regulations. | Presentation/Project/Report, Test/Exam |
+| IiEL3_U03      | The student is able to identify constraints on economic structures and institutions and reflect them in modeling. | Presentation/Project/Report, Test/Exam |
+| IiEL3_W04      | The student has advanced knowledge of methods for obtaining, processing, and analyzing economic data. | Presentation/Project/Report, Test/Exam |
+| IiEL3_K03      | The student can work in and manage a team, understanding the necessity of consistency and regularity in action. | Presentation/Project/Report, Test/Exam |
+| IiEL3_K02      | The student can communicate computer science and econometrics topics effectively in and outside the workplace. | Presentation/Project/Report, Test/Exam |
+
+## Subject Contents
+- **Intellectual Property Rights**: Protection and management in IT projects.
+- **Requirements Specification**: Stakeholder and system requirements, analysis, negotiation, feasibility study.
+- **IS and Software Design**: System life cycle models, cost estimation, project scheduling, reliability issues.
+- **Software Quality and Metrics**: Verification, validation, testing, review, and audits.
+
+## Prerequisites
+- Elementary knowledge of programming, databases, and IT systems design.
+
+## Assessment Methods
+| Criteria | Passing Threshold | Percentage of Final Grade |
+|----------|-------------------|---------------------------|
+| Exam     | 60.0%            | 100%                      |
+
+## Recommended Reading
+- **Basic Literature**:
+  - Pressman R.S., *Software Engineering: A Practitioner's Approach*, McGraw-Hill, 2005.
+  - Sommerville I., *Software Engineering*, Addison Wesley, 2004.
+  - S. Wrycza, J. Maślankowski, *Informatyka ekonomiczna. Teoria i zastosowania*, PWN, Warszawa 2019.
+- **Supplementary Literature**:
+  - ISO/IEC TR 19759:2015, *Software Engineering Guide to the Engineering Body of Knowledge*.
+  - IEEE/ISO/IEC 24765:2010, *Systems and Software Engineering - Vocabulary*.
+  - ISO/IEC 12207:2008, *Software Life Cycle Processes*.
+  - IEEE 1012-2012, *Standard for System and Software Verification and Validation*.
+  - IEEE 1028-2008, *Standard for Software Reviews and Audits*.
+  - ISO/IEC 25010:2011, *Software Quality Requirements and Evaluation (SQaRE)*.
+
+## Example Issues/Tasks
+- Shaping an effective information system and software development process.
+- Methods for documenting and constructing quality criteria for requirements specifications.
+- Selecting techniques for describing and designing information systems and software.
+- Selecting tools and technologies to achieve project goals.
+- Assessing the quality of information systems and software.
+
+## Work Placement
+- Not applicable
