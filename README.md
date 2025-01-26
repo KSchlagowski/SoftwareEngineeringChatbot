@@ -1,11 +1,12 @@
 # StudBot - chatbot dedykowany studentom
-# Główna dokumentacja projektu
+## Główna dokumentacja projektu
 
 
 
 ![86bfd1ba-c53b-4ba0-b074-6606362f6240](https://github.com/KSchlagowski/SoftwareEngineeringChatbot/blob/master/StudBot%20_Dokumentacja/studbot.webp)
-![Licencja wykorzystania Llama3.2:3b](https://github.com/KSchlagowski/SoftwareEngineeringChatbot/blob/master/StudBot%20_Dokumentacja/LICENSE%20AGREEMENT%20llama.md)
-![Licencja wykorzystania All-minilm](https://github.com/KSchlagowski/SoftwareEngineeringChatbot/blob/master/StudBot%20_Dokumentacja/LICENSE%20AGREEMENT%20all-minilm.txt)
+
+[Licencja wykorzystania Llama3.2:3b](https://github.com/KSchlagowski/SoftwareEngineeringChatbot/blob/master/StudBot%20_Dokumentacja/LICENSE%20AGREEMENT%20llama.md)
+[Licencja wykorzystania All-minilm](https://github.com/KSchlagowski/SoftwareEngineeringChatbot/blob/master/StudBot%20_Dokumentacja/LICENSE%20AGREEMENT%20all-minilm.txt)
 
 Projekt autorstwa:
 
