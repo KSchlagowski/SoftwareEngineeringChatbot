@@ -366,16 +366,17 @@ Regarding IT project management, while the course doesn't explicitly focus on it
 \*  Reliability issues
 
 ###Specyfikacja wymagań:
-Identyfikator	Nazwa	Opis	Priorytet	Kategoria
-W1	Analiza kart przedmiotów	Aplikacja powinna umożliwiać szczegółową analizę kart przedmiotów, identyfikując kluczowe informacje.	1	Funkcjonalne
-W2	Wizualizacja celów kursów	Aplikacja powinna prezentować cele przedmiotu i efekty kształcenia w zrozumiałej formie graficznej lub tekstowej.	2	Funkcjonalne
-W3	Rekomendacje materiałów	Aplikacja powinna sugerować materiały edukacyjne, takie jak książki, artykuły, czy filmy, na podstawie kart przedmiotów.	1	Funkcjonalne
-W4	Personalizacja wsparcia	Aplikacja powinna dostosowywać rekomendacje do poziomu wiedzy, preferencji użytkownika i zmieniających się potrzeb.	2	Funkcjonalne
-W5	Zrozumiałość informacji	Aplikacja powinna przekształcać skomplikowane opisy akademickie na prostszy, bardziej zrozumiały język.	1	Funkcjonalne
-W6	Skalowalność	Architektura aplikacji powinna być zaprojektowana tak, aby umożliwiać jej rozwój i integrację z nowymi funkcjonalnościami.	2	Pozafunkcjonalne
-W7	Bezpieczeństwo danych	Aplikacja powinna zapewniać bezpieczeństwo przechowywanych i przetwarzanych danych użytkownika.	1	Pozafunkcjonalne
-W8	Wydajność systemu	Aplikacja powinna działać płynnie nawet przy dużej liczbie użytkowników i analizowanych danych.	1	Pozafunkcjonalne
-W9	Interaktywność	Aplikacja powinna umożliwiać użytkownikowi zadawanie pytań i uzyskiwanie odpowiedzi w czasie rzeczywistym.	1	Funkcjonalne
+###Specyfikacja wymagań:
+Identyfikator	| Nazwa	| Opis	| Priorytet	| Kategoria
+W1	| Analiza kart przedmiotów	Aplikacja powinna umożliwiać szczegółową analizę kart przedmiotów, identyfikując kluczowe informacje.	| 1	Funkcjonalne
+W2	| Wizualizacja celów kursów	Aplikacja powinna prezentować cele przedmiotu i efekty kształcenia w zrozumiałej formie graficznej lub tekstowej.	| 2	Funkcjonalne
+W3	| Rekomendacje materiałów	Aplikacja powinna sugerować materiały edukacyjne, takie jak książki, artykuły, czy filmy, na podstawie kart przedmiotów.	| 1	Funkcjonalne
+W4	| Personalizacja wsparcia	Aplikacja powinna dostosowywać rekomendacje do poziomu wiedzy, preferencji użytkownika i zmieniających się potrzeb.	| 2	Funkcjonalne
+W5	| Zrozumiałość informacji	Aplikacja powinna przekształcać skomplikowane opisy akademickie na prostszy, bardziej zrozumiały język.	| 1	Funkcjonalne
+W6	| Skalowalność	Architektura aplikacji powinna być zaprojektowana tak, aby umożliwiać jej rozwój i integrację z nowymi funkcjonalnościami.	| 2	Pozafunkcjonalne
+W7	| Bezpieczeństwo danych	Aplikacja powinna zapewniać bezpieczeństwo przechowywanych i przetwarzanych danych użytkownika.	| 1	Pozafunkcjonalne
+W8	| Wydajność systemu	Aplikacja powinna działać płynnie nawet przy dużej liczbie użytkowników i analizowanych danych.	| 1	Pozafunkcjonalne
+W9	| Interaktywność	Aplikacja powinna umożliwiać użytkownikowi zadawanie pytań i uzyskiwanie odpowiedzi w czasie rzeczywistym.	| 1	Funkcjonalne
 
 
 
