@@ -216,6 +216,10 @@ Na potrzeby projektu wybieramy język Python, ponieważ oferuje on najlepsze wsp
 **Baza wektorowa** to narzędzie, które umożliwia przechowywanie i wyszukiwanie danych w postaci wektorów reprezentujących semantykę tekstu. W kontekście chatbota opartego na modelu językowym (LLM), baza wektorowa pozwala na dostarczanie precyzyjnych i kontekstowych odpowiedzi bez konieczności pełnego trenowania modelu na każdym nowym zbiorze danych. Pozwala to na dostarczenie precyzyjnych danych do wykorzystania przez model niskim kosztem. W dodatku operacja taka nie wymaga tworzenia obszernej bazy potrzebnej do trenowania modelu. Wadą tego rozwiązania jest znaczne zwiększenie ilości tokenów wykorzystywanych w promcie wjeściowym, oraz w historii konwersacji. Jest to jednak najlepsze rozwiązanie
 
  Na potrzeby projektu, dla sprawdzenia działania chatbota wystarczającym jest wykorzystanie jednej karty przedmiotu. Użyta została karta przedmiotu dla przedmiotu Inżynieria Oprogramowania, która została przetworzona na bazę wektorową opartą o 384 wymiary. 
+ 
+ ## 4.4 Udostępnienie projektu
+
+**Licencja MIT** (*Licencja X11*) – jedna z najprostszych i najbardziej liberalnych licencji otwartego oprogramowania. Daje użytkownikom nieograniczone prawo do używania, kopiowania,  modyfikowania i rozpowszechniania (w tym sprzedaży) oryginalnego lub  zmodyfikowanego programu w postaci binarnej lub źródłowej. Jedynym  wymaganiem jest, by we wszystkich wersjach zachowano warunki licencyjne i informacje o autorze.
 
 ## 5. Scenariusze testowe
 
