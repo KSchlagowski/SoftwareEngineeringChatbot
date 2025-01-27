@@ -366,7 +366,9 @@ Regarding IT project management, while the course doesn't explicitly focus on it
 \*  Reliability issues
 
 ###Specyfikacja wymagań:
+
 | Identyfikator	| Nazwa	| Opis	| Priorytet	| Kategoria	|
+| ------------- | ------------- | ------------- | ------------- | ------------- |
 | W1	| Analiza kart przedmiotów	Aplikacja powinna umożliwiać szczegółową analizę kart przedmiotów, identyfikując kluczowe informacje.	| 1	Funkcjonalne	|
 | W2	| Wizualizacja celów kursów	Aplikacja powinna prezentować cele przedmiotu i efekty kształcenia w zrozumiałej formie graficznej lub tekstowej.	| 2	Funkcjonalne	|
 | W3	| Rekomendacje materiałów	Aplikacja powinna sugerować materiały edukacyjne, takie jak książki, artykuły, czy filmy, na podstawie kart przedmiotów.	| 1	Funkcjonalne	|
